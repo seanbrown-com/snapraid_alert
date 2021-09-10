@@ -1,0 +1,28 @@
+version:11.3
+unixtime:1631182741
+time:2021-09-09 03:19:01
+command:sync
+argv:0:C:\Program Files (x86)\snapraid-11.3-windows-x64\snapraid.exe
+argv:1:-c
+argv:2:C:\Users\PC\Documents\SnapRaid\snapraid.config
+argv:3:-l
+argv:4:C:\Users\PC\Documents\SnapRaid\snapraid.log
+argv:5:sync
+selftest:
+msg:progress: Self test...
+conf:file:C:/Users/PC/Documents/SnapRaid/snapraid.config
+msg:status: Everything OK
+summary:error_file:0
+summary:error_io:0
+summary:error_data:0
+summary:exit:ok
+msg:progress: Saving state to D:/snapraid.content...
+msg:progress: Saving state to E:/snapraid.content...
+msg:progress: Saving state to F:/snapraid.content...
+msg:verbose:   546998 files
+msg:verbose:        0 hardlinks
+msg:verbose:        0 symlinks
+msg:verbose:     1732 empty dirs
+msg:progress: Verifying D:/snapraid.content...
+msg:progress: Verifying E:/snapraid.content...
+msg:progress: Verifying F:/snapraid.content...
